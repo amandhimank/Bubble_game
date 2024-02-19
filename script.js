@@ -4,7 +4,7 @@
 // lekin isse toh point mein aayega number ==> use karenge Math.floor()
 
 var pbtm = document.querySelector("#pbottom");
-var timer = 60;
+var timer = 30;
 var score = 0;
 var hit = 0;
 
